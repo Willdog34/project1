@@ -1,0 +1,15 @@
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\bin\Debug\net8.0\QuadTreeapp.exe
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\bin\Debug\net8.0\QuadTreeapp.deps.json
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\bin\Debug\net8.0\QuadTreeapp.runtimeconfig.json
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\bin\Debug\net8.0\QuadTreeapp.dll
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\bin\Debug\net8.0\QuadTreeapp.pdb
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.AssemblyInfoInputs.cache
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.AssemblyInfo.cs
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.csproj.CoreCompileInputs.cache
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.sourcelink.json
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.dll
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\refint\QuadTreeapp.dll
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.pdb
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\QuadTreeapp.genruntimeconfig.cache
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeapp\obj\Debug\net8.0\ref\QuadTreeapp.dll

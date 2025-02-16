@@ -1,0 +1,7 @@
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping_QuadTreeApp.UnitTests
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\obj\Debug\net8.0\QuadTreeApp.UnitTests.csproj.AssemblyReference.cache
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\obj\Debug\net8.0\QuadTreeApp.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\obj\Debug\net8.0\QuadTreeApp.UnitTests.AssemblyInfoInputs.cache
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\obj\Debug\net8.0\QuadTreeApp.UnitTests.AssemblyInfo.cs
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\obj\Debug\net8.0\QuadTreeApp.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\redni\Desktop\Project 1\QuadTreeapp\QuadTreeApp.UnitTests\obj\Debug\net8.0\QuadTreeApp.UnitTests.sourcelink.json
