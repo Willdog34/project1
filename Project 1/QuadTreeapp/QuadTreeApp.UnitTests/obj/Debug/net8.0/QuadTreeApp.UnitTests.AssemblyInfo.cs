@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadTreeApp.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eec5be1dcbec7d44a2ca7c7741c7ddc98dd3c60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5108d5b5e8360eb5bbc9efb68d8524fde99c739")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadTreeApp.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadTreeApp.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
