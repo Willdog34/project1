@@ -10,7 +10,7 @@ namespace QuadTreeApp.UnitTests.Models
     public abstract class Node
     {
         public int X { get; protected set; } // this should be fine
-        public int Y { get; protected set; }
+        public int Y { get; protected set; } // this is another comment
         public int Width { get; protected set; }
         public int Height { get; protected set; }
 
