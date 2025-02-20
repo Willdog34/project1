@@ -14,7 +14,7 @@ namespace QuadTreeapp.models.commands
         }
     }
 }
-
+//here is the code that should be in the CommandProcessor.cs file
 
 namespace QuadTreeApp.Commands
 {
