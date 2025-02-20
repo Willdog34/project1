@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj": {}
+    "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj": {
+    "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj",
+        "projectUniqueName": "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj",
         "projectName": "QuadTreeapp",
-        "projectPath": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj",
+        "projectPath": "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj",
         "packagesPath": "C:\\Users\\redni\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\obj\\",
         "projectStyle": "PackageReference",

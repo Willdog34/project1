@@ -5530,9 +5530,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeApp.UnitTests\\QuadTreeApp.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeApp.UnitTests\\QuadTreeApp.UnitTests.csproj",
       "projectName": "QuadTreeApp.UnitTests",
-      "projectPath": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeApp.UnitTests\\QuadTreeApp.UnitTests.csproj",
+      "projectPath": "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeApp.UnitTests\\QuadTreeApp.UnitTests.csproj",
       "packagesPath": "C:\\Users\\redni\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeApp.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
@@ -5556,8 +5556,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj": {
-              "projectPath": "C:\\Users\\redni\\Source\\Repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj"
+            "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj": {
+              "projectPath": "C:\\Users\\redni\\source\\repos\\project1\\Project 1\\QuadTreeapp\\QuadTreeapp\\QuadTreeapp.csproj"
             }
           }
         }

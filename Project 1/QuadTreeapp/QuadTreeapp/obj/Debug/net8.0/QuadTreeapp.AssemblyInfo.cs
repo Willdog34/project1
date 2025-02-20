@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadTreeapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5108d5b5e8360eb5bbc9efb68d8524fde99c739")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4c459b62541cf73151b12784149fdd1a1f8044")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadTreeapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadTreeapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
